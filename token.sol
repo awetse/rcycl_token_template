@@ -2017,16 +2017,3 @@ contract WickedCraniums is ERC721, Ownable {
     }
 
 }
-
-//========================ORIGINAL SOURCE OF CONTRACT END================================
-
-/* https://github.com/OpenZeppelin/openzeppelin-contracts */
-/* https://docs.openzeppelin.com/contracts/4.x/api/token/erc721 */
-/* https://etherscan.io/address/0x85f740958906b317de6ed79663012859067e745b#code */
-/* https://habr.com/ru/post/312008/ */
-/* https://habr.com/ru/post/313710/ */
-/* https://docs.soliditylang.org/en/develop/introduction-to-smart-contracts.html#subcurrency-example */
-/* https://github.com/ethereum/solidity */
-/* https://hub.forklog.com/tokeny-na-efire-sozdaem-svoj-token/ */
-/* https://rinkeby.etherscan.io/address/0x965364706AF3AC53390fD267426B347c2fdCc464 */
-/* https://habr.com/ru/post/338084/ */
